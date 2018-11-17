@@ -2,7 +2,7 @@
 
 Useful tool to use inside your Mix projects.
 
-Very much in Alpha state (this project will be presented and released @ [Code Beam Lite Amsterdam 2018](https://codesync.global/conferences/cbl-amsterdam-2018/) )
+There is nothing here yet. This project will be fully published @ [Code Beam Lite Amsterdam 2018](https://codesync.global/conferences/cbl-amsterdam-2018/) )
 
 ## Installation
 
