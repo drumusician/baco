@@ -3,6 +3,8 @@ defmodule Mix.Tasks.Generate.Task do
   Generate boilerplate for a new mix task
   """
 
+  @shortdoc "Create a new mix task"
+
   use Mix.Task
   alias Mix.Shell.IO
 

@@ -3,6 +3,8 @@ defmodule Mix.Tasks.Generate.Api do
   Generate boilerplate setup for an API endpoint
   """
 
+  @shortdoc "Create a new API endpoint"
+
   use Mix.Task
   alias Mix.Shell.IO
 
