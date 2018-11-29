@@ -1,18 +1,5 @@
 defmodule Baco do
   @moduledoc """
-  Documentation for Baco.
+   Baco, just a useful tool to use in your mix projects.
   """
-
-  @doc """
-  Hello world.
-
-  ## Examples
-
-      iex> Baco.hello()
-      :world
-
-  """
-  def hello do
-    :world
-  end
 end
