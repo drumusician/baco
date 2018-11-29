@@ -2,22 +2,18 @@
 
 Useful tool to use inside your Mix projects.
 
-There is nothing here yet. This project will be fully published @ [Code Beam Lite Amsterdam 2018](https://codesync.global/conferences/cbl-amsterdam-2018/)
+Very much in alpha state.
+
+Currently this project provides 3 tasks and is most useful when installed as a global archive.
+
+* mix generate.task (create a new mix task)
+* mix generate.api  (create a new api endpoint)
+* mix escript.new   (create a new escript powered mix project)
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `baco` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:baco, "~> 0.1.0"}
-  ]
-end
+```bash
+mix archive.install hex baco
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/baco](https://hexdocs.pm/baco).
 
